@@ -1,0 +1,12 @@
+C:\Users\AHMED\source\repos\Amonic Airlines\Amonic Airlines\bin\Debug\Amonic Airlines.exe.config
+C:\Users\AHMED\source\repos\Amonic Airlines\Amonic Airlines\bin\Debug\Amonic Airlines.exe
+C:\Users\AHMED\source\repos\Amonic Airlines\Amonic Airlines\bin\Debug\Amonic Airlines.pdb
+C:\Users\AHMED\source\repos\Amonic Airlines\Amonic Airlines\obj\Debug\Amonic Airlines.csproj.AssemblyReference.cache
+C:\Users\AHMED\source\repos\Amonic Airlines\Amonic Airlines\obj\Debug\Amonic Airlines.csproj.SuggestedBindingRedirects.cache
+C:\Users\AHMED\source\repos\Amonic Airlines\Amonic Airlines\obj\Debug\Amonic_Airlines.Form1.resources
+C:\Users\AHMED\source\repos\Amonic Airlines\Amonic Airlines\obj\Debug\Amonic_Airlines.Properties.Resources.resources
+C:\Users\AHMED\source\repos\Amonic Airlines\Amonic Airlines\obj\Debug\Amonic Airlines.csproj.GenerateResource.cache
+C:\Users\AHMED\source\repos\Amonic Airlines\Amonic Airlines\obj\Debug\Amonic Airlines.csproj.CoreCompileInputs.cache
+C:\Users\AHMED\source\repos\Amonic Airlines\Amonic Airlines\obj\Debug\Amonic Airlines.exe
+C:\Users\AHMED\source\repos\Amonic Airlines\Amonic Airlines\obj\Debug\Amonic Airlines.pdb
+C:\Users\AHMED\source\repos\Amonic Airlines\Amonic Airlines\obj\Debug\Amonic_Airlines.Form2.resources
